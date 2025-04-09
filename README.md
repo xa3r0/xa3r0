@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/xa3r0/xa3r0/main/gitbanner_1.png" alt="JD's GitHub Banner" width="100%"/>
 # 👋 Hey there, I'm JD!
 
-
 Welcome to my digital den — where marketing strategy meets code, automation meets obsession, and curiosity refuses to sleep.
 
 By day, I work as a **Digital Marketing Associate at Google**, deeply involved in optimizing campaigns and building smarter workflows. But my real joy comes from **automating the boring stuff**, solving problems creatively, and crafting tools that quietly get things done — so humans don’t have to.
