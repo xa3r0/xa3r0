@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xa3h0/xa3h0/main/banner.png" alt="JD's GitHub Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/xa3h0/xa3h0/main/gitbanner.png" alt="JD's GitHub Banner" width="100%"/>
 # 👋 Hey there, I'm JD!
 
 Welcome to my digital den — where marketing strategy meets code, automation meets obsession, and curiosity refuses to sleep.
