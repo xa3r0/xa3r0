@@ -38,7 +38,7 @@ By day, I work as a **Digital Marketing Associate at Google**, deeply involved i
 ## 🛠️ Languages & Tools I Use Regularly
 
 `Apps Script` • `Python` • `HTML` • `CSS` • `JavaScript`  
-`Google Sheets` • `Jira` • `VS Code` • `Linux Mint` • `Notion` • `Git`
+`Google Sheets` • `Jira` • `VS Code` • `Debian` • `Notion` • `Git`
 
 ---
 
